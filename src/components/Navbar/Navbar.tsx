@@ -50,15 +50,6 @@ function Navbar() {
                   Highest Rated
                 </Link>
               </Button>
-              {/* <Button sx={{ color: "#fff" }}>
-                <Link
-                  to="/my-favourites"
-                  activeOptions={{ exact: true }}
-                  className="link"
-                >
-                  My Favourites
-                </Link>
-              </Button> */}
             </Grid>
           </Grid>
         </Toolbar>
